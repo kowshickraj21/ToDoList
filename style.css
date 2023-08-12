@@ -54,3 +54,14 @@ ul{
     justify-content: center;
     margin-top: 15px;
 }
+.delbtn{
+    background-color: red;
+}
+.createbtn{
+    background-color: #66FF00;
+}
+.liel{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
